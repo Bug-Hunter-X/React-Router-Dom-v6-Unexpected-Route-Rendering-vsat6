@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with React Router Dom v6 where routes do not render as expected, possibly due to incorrect path configuration or missing route definitions.  The solution showcases a proper way to set up routes using `Routes` and `Route` components to address the issue.
